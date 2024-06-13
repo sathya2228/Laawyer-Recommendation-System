@@ -1,0 +1,77 @@
+S.NO,Enrollment number,Name,Specialization,Experience,Location,Success rate,Avg .Rating
+1,Ms. 2701/2015,S. R. Iyalpari,Arbitration,8,Coimbatore,85%,4.1
+2,Ms. 2701/2015,S. R. Iyalpari,Civil,8,Coimbatore,85%,4.1
+3,Ms. 2701/2015,S. R. Iyalpari,Divorce,8,Coimbatore,85%,4.1
+4,Ms. 2701/2015,S. R. Iyalpari,Family,8,Coimbatore,85%,4.1
+5,MS/3485/2017,Sathya Narayanan Subramanian,Civil,6,Coimbatore,89%,4.9
+6,MS/3485/2017,Sathya Narayanan Subramanian,Family,6,Coimbatore,89%,4.9
+7,MS/826/2017,Shankar Ganesh Rajendran ,Criminal,6,Coimbatore,88%,4.7
+8,MS/826/2017,Shankar Ganesh Rajendran ,Civil,6,Coimbatore,88%,4.7
+9,MS/826/2017,Shankar Ganesh Rajendran ,Divorce,6,Coimbatore,88%,4.7
+10,MS/826/2017,Shankar Ganesh Rajendran ,Consumer Court,6,Coimbatore,88%,4.7
+11,--,Adhithyan C,Civil,3,Coimbatore,80%,4
+12,--,Adhithyan C,Consumer Court,3,Coimbatore,80%,4
+13,--,Adhithyan C,Family,3,Coimbatore,80%,4
+14,--,Adhithyan C,Divorce,3,Coimbatore,80%,4
+15,--,Kavitha D,Civil,12,Coimbatore,82%,4.1
+16,--,Kavitha D,Consumer Court,12,Coimbatore,82%,4.1
+17,--,Kavitha D,Family,12,Coimbatore,82%,4.1
+18,--,A.R. Poorvaja,Arbitration,12,Coimbatore,82%,4.1
+19,--,A.R. Poorvaja,Divorce,12,Coimbatore,82%,4.1
+20,--,Swaminathan Neelakantan,Family,10,Coimbatore,90%,4.9
+21,MS/2575/2007,M. Dheenadhayalan,Criminal,16,Coimbatore,87%,4.7
+22,MS/2575/2007,M. Dheenadhayalan,Consumer Court,16,Coimbatore,87%,4.7
+23,MS/2575/2007,M. Dheenadhayalan,Family,16,Coimbatore,87%,4.7
+24,--,R Jayakumar,Criminal,24,Coimbatore,89%,4.8
+25,MS/2912/2010,Sarvana Kumar,Civil,13,Coimbatore,86%,4.4
+26,MS/1715/1999,Thangavel Krishnan,Arbitration,24,Erode,91%,5
+27,MS/1715/1999,Thangavel Krishnan,Civil,24,Erode,91%,5
+28,MS/1715/1999,Thangavel Krishnan,Divorce,24,Erode,91%,5
+29,MS/2842/2009,Dhanagodi,Family,14,Erode,80%,4
+30,MS/2842/2009,Dhanagodi,Criminal,14,Erode,80%,4
+31,MS/2842/2009,Dhanagodi,Civil,14,Erode,80%,4
+32,--,Preethi A,Criminal,4,Erode,82%,4.1
+33,--,Preethi A,Civil,4,Erode,82%,4.1
+34,--,Preethi A,Family,4,Erode,82%,4.1
+35,MS/1222/1996,G Jayaprakash,Civil,27,Erode,82%,4.1
+36,MS/1222/1996,G Jayaprakash,Family,27,Erode,90%,4.9
+36,MS/1222/1996,G Jayaprakash,Criminal,27,Erode,90%,4.9
+37,MS/1060/2000,P. Vijay Akilan,Civil,23,Trichy,70%,3.9
+38,MS/1060/2000,P. Vijay Akilan,Criminal,23,Trichy,70%,3.9
+39,MS/1060/2000,P. Vijay Akilan,Criminal,23,Trichy,70%,3.9
+40,MS/2240/2014,Abarajithan R,Civil,9,Trichy,83%,4.2
+41,MS/2240/2014,Abarajithan R,Criminal,9,Trichy,83%,4.2
+42,--,Rama S,Criminal,4,Trichy,82%,4.1
+43,MS/226/2009,A Sahul Hameed,Divorce,14,Trichy,80%,4
+44,MS/226/2009,A Sahul Hameed,Family,14,Trichy,80%,4
+45,MS/226/2009,A Sahul Hameed,Civil,14,Trichy,80%,4
+46,MS/2114/2011,A. Gobikannan,Criminal,12,Trichy,92%,5
+47,MS/2114/2011,A. Gobikannan,Divorce,12,Trichy,92%,5
+48,MS/2114/2011,A. Gobikannan,Civil,12,Trichy,92%,5
+49,MS/1162/1991,R. Edwin Jayakumar,Criminal,32,Trichy,95%,5
+50,MS/1162/1991,R. Edwin Jayakumar,Civil,32,Trichy,95%,5
+51,MS/1162/1991,R. Edwin Jayakumar,Divorce,32,Trichy,95%,5
+52,MS/2517/2008,Rajesh Kannan,Criminal,15,Trichy,92%,5
+53,MS/2517/2008,Rajesh Kannan,Divorce,15,Trichy,92%,5
+54,MS/2517/2008,Rajesh Kannan,Family,15,Trichy,92%,5
+55,MS/852/2008,Gayathri,Civil,15,Trichy,93%,5
+56,MS/852/2008,Gayathri,Divorce,15,Trichy,93%,5
+57,MS/852/2008,Gayathri,Family,15,Trichy,93%,5
+58,MS/77/1997,Vijaya,Family,26,Trichy,80%,4
+59,MS/2347/2008,S. Bhavani,Divorce,15,Dindigul,89%,4.7
+60,MS/2347/2008,S. Bhavani,Civil,15,Dindigul,89%,4.7
+61,TN/527/2005,Sakthivel,Criminal,18,Dindigul,85%,4.5
+62,TN/527/2005,Sakthivel,Divorce,18,Dindigul,85%,4.5
+63,Ms/1812/1999,B Elan Kumaran,Civil,24,Dindigul,82%,4
+64,MS/133/1985,Balajanaki Srinivasan,Arbitration,38,Chennai,92%,4.9
+65,MS/133/1985,Balajanaki Srinivasan,Consumer Court,38,Chennai,92%,4.9
+66,MS/133/1985,Balajanaki Srinivasan,Criminal,38,Chennai,92%,4.9
+67,MS/133/1985,Balajanaki Srinivasan,Divorce,38,Chennai,92%,4.9
+68,MS 1982/2009,S. Saranraj,Criminal,14,chennai,90%,4.7
+69,MS 1982/2009,S. Saranraj,Civil,14,chennai,90%,4.7
+70,MS/813/2016,D Parthibhan,Criminal,7,chennai,90%,4.7
+71,MS/813/2016,D Parthibhan,Civil,7,Chennai,90%,4.7
+72,TN/1040/2002,Ravi Shankar,Arbitration,21,Chennai,90%,4.7
+73,--,Raghuraman Balaji,Consumer Court,7,Chennai,80%,4
+74,MS/430/2009,Suresh Kumar,Criminal,14,Chennai,81%,4
+75,MS.311/1983,S. Thenkodi Annam,Criminal,40,Chennai,82%,4
